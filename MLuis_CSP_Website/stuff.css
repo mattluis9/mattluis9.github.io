@@ -1,0 +1,29 @@
+body {
+	background-image: url("images/Background1.jpg") ;
+	font-family: Arial;
+	color: white;
+	font-size: 20px;
+	line-height: 1.7em;
+	margin: 0;
+	padding: 0;
+}
+a:hover{
+	color: green;
+}
+a{
+	color: blue;
+}
+
+h2{
+	font-size:7;
+}
+h3{
+	font-size:3;
+	font-family: Arial;
+}
+
+h4{
+	font-size:6;
+	color: red;
+}
+
