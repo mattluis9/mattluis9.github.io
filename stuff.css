@@ -1,6 +1,6 @@
 body {
-	background-image: url("images/Background1.jpg") ;
-	font-family: Arial;
+	background-image: url("Images/Background1.jpg");
+	font-family: Algerian;
 	color: white;
 	font-size: 20px;
 	line-height: 1.7em;
@@ -8,10 +8,10 @@ body {
 	padding: 0;
 }
 a:hover{
-	color: green;
+	color: purple;
 }
 a{
-	color: blue;
+	color: red;
 }
 
 h2{
